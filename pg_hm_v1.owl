@@ -22,7 +22,10 @@
         <Class IRI="#Address"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Bagel"/>
+        <Class IRI="#Bakery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Base"/>
@@ -55,9 +58,6 @@
         <Class IRI="#Food"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Fries"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#GardenPizza"/>
     </Declaration>
     <Declaration>
@@ -76,10 +76,16 @@
         <Class IRI="#Location"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#MargheritaPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MaxicanPizza"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Menu"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#NamedBagel"/>
+        <Class IRI="#NamedBakery"/>
     </Declaration>
     <Declaration>
         <Class IRI="#NamedBuger"/>
@@ -94,6 +100,24 @@
         <Class IRI="#Pizza"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#PizzaBagel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PizzaBread"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PizzaBruschetta"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PizzaBurger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PizzaDoughBalls"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PizzaRoll"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Postcode"/>
     </Declaration>
     <Declaration>
@@ -106,6 +130,9 @@
         <Class IRI="#Shape"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#SlicePizza"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Square"/>
     </Declaration>
     <Declaration>
@@ -116,6 +143,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Topping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#University"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="dc:creator"/>
@@ -125,8 +155,12 @@
         <Class IRI="#Location"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Bagel"/>
+        <Class IRI="#Bakery"/>
         <Class IRI="#Menu"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bar"/>
+        <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Base"/>
@@ -165,10 +199,6 @@
         <Class IRI="#DomainThing"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Fries"/>
-        <Class IRI="#Menu"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#GardenPizza"/>
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
@@ -193,20 +223,24 @@
         <Class IRI="#DomainThing"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#MargheritaPizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MaxicanPizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Menu"/>
         <Class IRI="#Food"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#NamedBagel"/>
-        <Class IRI="#Bagel"/>
+        <Class IRI="#NamedBakery"/>
+        <Class IRI="#Bakery"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#NamedBuger"/>
         <Class IRI="#Burger"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#NamedFries"/>
-        <Class IRI="#Fries"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#NamedPizza"/>
@@ -215,6 +249,30 @@
     <SubClassOf>
         <Class IRI="#Pizza"/>
         <Class IRI="#Menu"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PizzaBagel"/>
+        <Class IRI="#NamedBakery"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PizzaBread"/>
+        <Class IRI="#NamedBakery"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PizzaBruschetta"/>
+        <Class IRI="#NamedBakery"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PizzaBurger"/>
+        <Class IRI="#NamedBuger"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PizzaDoughBalls"/>
+        <Class IRI="#NamedBakery"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PizzaRoll"/>
+        <Class IRI="#NamedBakery"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Postcode"/>
@@ -233,6 +291,10 @@
         <Class IRI="#Base"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#SlicePizza"/>
+        <Class IRI="#NamedBakery"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Square"/>
         <Class IRI="#Shape"/>
     </SubClassOf>
@@ -247,6 +309,10 @@
     <SubClassOf>
         <Class IRI="#Topping"/>
         <Class IRI="#Menu"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#University"/>
+        <Class IRI="#Category"/>
     </SubClassOf>
 </Ontology>
 
