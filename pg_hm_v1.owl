@@ -95,6 +95,9 @@
         <Class IRI="#DomainThing"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Dough"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#EggscellentPizza"/>
     </Declaration>
     <Declaration>
@@ -466,11 +469,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#DeepDish"/>
-        <Class IRI="#Base"/>
+        <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Delicatessens"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dough"/>
+        <Class IRI="#Pizza"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#EggscellentPizza"/>
@@ -738,7 +745,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ThinandCrispy"/>
-        <Class IRI="#Base"/>
+        <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Topping"/>
