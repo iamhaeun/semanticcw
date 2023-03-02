@@ -52,6 +52,9 @@
         <Class IRI="#DomainThing"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Dough"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#EggscellentPizza"/>
     </Declaration>
     <Declaration>
@@ -71,6 +74,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#GyroPitaPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HoneyWheatDough"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Location"/>
@@ -145,7 +151,37 @@
         <Class IRI="#Topping"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#UltimateSupremePizza"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#University"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VeganMargheriaPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VegetarianMaxicanPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VeggiePizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VodkaSaucePizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#White"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WoodFireGrilledPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WoodOvenPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cheesy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WhitePizza(*)"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="dc:creator"/>
@@ -188,6 +224,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#DeepDish"/>
+        <Class IRI="#Dough"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dough"/>
         <Class IRI="#Base"/>
     </SubClassOf>
     <SubClassOf>
@@ -217,6 +257,10 @@
     <SubClassOf>
         <Class IRI="#GyroPitaPizza"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HoneyWheatDough"/>
+        <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Location"/>
@@ -292,7 +336,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#SlicePizza"/>
-        <Class IRI="#NamedBakery"/>
+        <Class IRI="#Pizza"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Square"/>
@@ -304,15 +348,55 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ThinandCrispy"/>
-        <Class IRI="#Base"/>
+        <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Topping"/>
         <Class IRI="#Menu"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#UltimateSupremePizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#University"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VeganMargheriaPizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VegetarianMaxicanPizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VeggiePizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VodkaSaucePizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#White"/>
+        <Class IRI="#Dough"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WoodFireGrilledPizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WoodOvenPizza"/>
+        <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cheesy"/>
+        <Class IRI="#Topping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WhitePizza(*)"/>
+        <Class IRI="#NamedPizza"/>
     </SubClassOf>
 </Ontology>
 
