@@ -6,6 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.city.ac.uk/inm713-in3067/2023/pg_hm">
+    <Prefix name="" IRI="http://www.city.ac.uk/inm713-in3067/2023/pg_hm"/>
     <Prefix name="dc" IRI="http://purl.org/dc/elements/1.1/"/>
     <Prefix name="hk" IRI="http://www.city.ac.uk/inm713-in3067/2023/pg_hm/hk#"/>
     <Prefix name="mr" IRI="http://www.city.ac.uk/inm713-in3067/2023/pg_hm/mr#"/>
@@ -22,7 +23,22 @@
         <Class IRI="#Address"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#American_Restaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Asian_Restaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Atheneos_Greek_Village_Cafe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bagel_Shop"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Bakery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bakerys"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Bar"/>
@@ -31,13 +47,37 @@
         <Class IRI="#Base"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Brew_Pubs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Buon_Cibo"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Burger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cafe_Veloce"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#California_Pizza_Kitchen"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Category"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Caterers"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#CheesePizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#China_Kitchen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#China_Moon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chinese_Restaurant"/>
     </Declaration>
     <Declaration>
         <Class IRI="#City"/>
@@ -49,16 +89,37 @@
         <Class IRI="#DeepDish"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Delicatessens"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#DomainThing"/>
     </Declaration>
     <Declaration>
         <Class IRI="#EggscellentPizza"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#European_Restaurants"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Food"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Food_Products_Retail"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Food_and_Beverage"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#GardenPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gluten-free_Restaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Glutenfree_Things"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gran_Morsi"/>
     </Declaration>
     <Declaration>
         <Class IRI="#GrandmaPizza"/>
@@ -67,10 +128,34 @@
         <Class IRI="#GreekPizza"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Greek_Restaurant"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#GrilledPizza"/>
     </Declaration>
     <Declaration>
         <Class IRI="#GyroPitaPizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#I_Love_Bagels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Icon_Grill"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Italian_Restaurants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#La_Hacienda"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lineage_-_Permanently_Closed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Little_Caesars_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Little_Italy_Pizza"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Location"/>
@@ -82,7 +167,22 @@
         <Class IRI="#MaxicanPizza"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Mediterranean_Restaurants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mediterraneo_Ristorante"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Menu"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mexican_Gardens"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mexican_Restaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Milanos_Pizza"/>
     </Declaration>
     <Declaration>
         <Class IRI="#NamedBakery"/>
@@ -97,6 +197,18 @@
         <Class IRI="#NamedPizza"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#NamedRestaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Night_Clubs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Oceano_Bistro_-_Clayton"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Party_and_Event_Planners"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Pizza"/>
     </Declaration>
     <Declaration>
@@ -118,19 +230,52 @@
         <Class IRI="#PizzaRoll"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Pizza_Place"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Postcode"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Prima_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Prince_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pub"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Restaurant"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Restaurants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ristorante_Italiano"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Round"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sandwich_Shops"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seafood_Restaurants"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Shape"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Sir_Pizza"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#SlicePizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spagio"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sports_Bar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Square"/>
@@ -139,13 +284,94 @@
         <Class IRI="#State"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Steinway_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Take_Out_Restaurants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tavern_At_The_Inn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Taverns"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#ThinandCrispy"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Topping"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Town_Pub"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#University"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Variety_Stores"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wine_Bar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Woolworth_Tower_Kitchen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Abo&apos;s_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Avellino&apos;s_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bar_&amp;_Grills"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Boston&apos;s_Restaurant_&amp;_Sports_Bar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cajun_/_Creole_Restaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Copeland&apos;s_Cheescake_Bistro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cristy&apos;s_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Doubledave&apos;s_Pizzaworks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Frank&apos;s_Pizzeria"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Greek&apos;s_Pizzeria"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Joey&apos;s_N_Y_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#John&apos;s_of_12th_Street"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Organic_Foods_&amp;_Products"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Patrick_Molloy&apos;s_Sports_Pub"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Salerno&apos;s_Pizza_Restaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Suraya&apos;s_-_Grill_and_Fried_Chicken"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tascali&apos;s_Decades_Pasta_&amp;_Grill"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tomato_&amp;_Basil"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Uno_Pizzeria_&amp;_Grill_-_Sturbridge"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="dc:creator"/>
@@ -155,8 +381,28 @@
         <Class IRI="#Location"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#American_Restaurant"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Asian_Restaurant"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Atheneos_Greek_Village_Cafe"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bagel_Shop"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Bakery"/>
         <Class IRI="#Menu"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bakerys"/>
+        <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Bar"/>
@@ -167,16 +413,48 @@
         <Class IRI="#Pizza"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Brew_Pubs"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Buon_Cibo"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Burger"/>
         <Class IRI="#Menu"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cafe_Veloce"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#California_Pizza_Kitchen"/>
+        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Category"/>
         <Class IRI="#DomainThing"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Caterers"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#CheesePizza"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#China_Kitchen"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#China_Moon"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chinese_Restaurant"/>
+        <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#City"/>
@@ -191,16 +469,44 @@
         <Class IRI="#Base"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Delicatessens"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#EggscellentPizza"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#European_Restaurants"/>
+        <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Food"/>
         <Class IRI="#DomainThing"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Food_Products_Retail"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Food_and_Beverage"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#GardenPizza"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gluten-free_Restaurant"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Glutenfree_Things"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gran_Morsi"/>
+        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#GrandmaPizza"/>
@@ -211,12 +517,44 @@
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Greek_Restaurant"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#GrilledPizza"/>
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#GyroPitaPizza"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#I_Love_Bagels"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Icon_Grill"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Italian_Restaurants"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#La_Hacienda"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lineage_-_Permanently_Closed"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Little_Caesars_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Little_Italy_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Location"/>
@@ -231,8 +569,28 @@
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Mediterranean_Restaurants"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mediterraneo_Ristorante"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Menu"/>
         <Class IRI="#Food"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mexican_Gardens"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mexican_Restaurant"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Milanos_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#NamedBakery"/>
@@ -245,6 +603,22 @@
     <SubClassOf>
         <Class IRI="#NamedPizza"/>
         <Class IRI="#Pizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NamedRestaurant"/>
+        <Class IRI="#Restaurants"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Night_Clubs"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Oceano_Bistro_-_Clayton"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Party_and_Event_Planners"/>
+        <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Pizza"/>
@@ -275,24 +649,68 @@
         <Class IRI="#NamedBakery"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Pizza_Place"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Postcode"/>
         <Class IRI="#Location"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Prima_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Prince_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pub"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Restaurant"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Restaurants"/>
         <Class IRI="#DomainThing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ristorante_Italiano"/>
+        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Round"/>
         <Class IRI="#Shape"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Sandwich_Shops"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seafood_Restaurants"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Shape"/>
         <Class IRI="#Base"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Sir_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#SlicePizza"/>
         <Class IRI="#NamedBakery"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spagio"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sports_Bar"/>
+        <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Square"/>
@@ -303,6 +721,22 @@
         <Class IRI="#Location"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Steinway_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Take_Out_Restaurants"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tavern_At_The_Inn"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Taverns"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#ThinandCrispy"/>
         <Class IRI="#Base"/>
     </SubClassOf>
@@ -311,8 +745,100 @@
         <Class IRI="#Menu"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Town_Pub"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#University"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Variety_Stores"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wine_Bar"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Woolworth_Tower_Kitchen"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Abo&apos;s_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Avellino&apos;s_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bar_&amp;_Grills"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boston&apos;s_Restaurant_&amp;_Sports_Bar"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cajun_/_Creole_Restaurant"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Copeland&apos;s_Cheescake_Bistro"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cristy&apos;s_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Doubledave&apos;s_Pizzaworks"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Frank&apos;s_Pizzeria"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Greek&apos;s_Pizzeria"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joey&apos;s_N_Y_Pizza"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#John&apos;s_of_12th_Street"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Organic_Foods_&amp;_Products"/>
+        <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Patrick_Molloy&apos;s_Sports_Pub"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Salerno&apos;s_Pizza_Restaurant"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Suraya&apos;s_-_Grill_and_Fried_Chicken"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tascali&apos;s_Decades_Pasta_&amp;_Grill"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tomato_&amp;_Basil"/>
+        <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Uno_Pizzeria_&amp;_Grill_-_Sturbridge"/>
+        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
 </Ontology>
 
