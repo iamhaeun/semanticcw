@@ -476,9 +476,6 @@
         <Class IRI="#Uno_Pizzeria_&amp;_Grill_-_Sturbridge"/>
     </Declaration>
     <Declaration>
-<<<<<<< HEAD
-        <NamedIndividual IRI="#43212,_1295_Grandview,_Columbus,_Marble_Cliff,_US"/>
-=======
         <NamedIndividual IRI="#Madison_St_Madison_US__TN"/>
     </Declaration>
     <Declaration>
@@ -612,7 +609,6 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#99216,14004_E_Indiana_Ave_Spokane_WA_US"/>
->>>>>>> dd3cfd344143da1f46b757c82e1514549360dd95
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="dc:creator"/>
@@ -1218,13 +1214,8 @@
         <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <ClassAssertion>
-<<<<<<< HEAD
         <Class IRI="#Address"/>
         <NamedIndividual IRI="#43212,_1295_Grandview,_Columbus,_Marble_Cliff,_US"/>
-=======
-        <Class IRI="#Postcode"/>
-        <NamedIndividual IRI="#10279,233_Broadway_New_York_Nyc_US"/>
->>>>>>> dd3cfd344143da1f46b757c82e1514549360dd95
     </ClassAssertion>
 </Ontology>
 
