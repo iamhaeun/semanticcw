@@ -47,7 +47,19 @@
         <Class IRI="#Base"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#BasilPestoTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BasilTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BlendCheeseTopping"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Brew_Pubs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BroccoliTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Buon_Cibo"/>
@@ -68,7 +80,10 @@
         <Class IRI="#Caterers"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#CheesePizza"/>
+        <Class IRI="#Cheese"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CheeseTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#China_Kitchen"/>
@@ -98,7 +113,7 @@
         <Class IRI="#Dough"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#EggscellentPizza"/>
+        <Class IRI="#Eggscellent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#European_Restaurants"/>
@@ -113,7 +128,10 @@
         <Class IRI="#Food_and_Beverage"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#GardenPizza"/>
+        <Class IRI="#Garden"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GarlicTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Gluten-free_Restaurant"/>
@@ -122,28 +140,43 @@
         <Class IRI="#Glutenfree_Things"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#GoatCheeseTopping"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Gran_Morsi"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#GrandmaPizza"/>
+        <Class IRI="#Grandma"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#GreekPizza"/>
+        <Class IRI="#Greek"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Greek_Restaurant"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#GrilledPizza"/>
+        <Class IRI="#GreenPepperTopping"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#GyroPitaPizza"/>
+        <Class IRI="#Grilled"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GyroPita"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HerbSpiceTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HoneyWheat"/>
     </Declaration>
     <Declaration>
         <Class IRI="#I_Love_Bagels"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Icon_Grill"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ItalianSausageTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Italian_Restaurants"/>
@@ -164,10 +197,16 @@
         <Class IRI="#Location"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#MargheritaPizza"/>
+        <Class IRI="#Margherita"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#MaxicanPizza"/>
+        <Class IRI="#MarinaraTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Maxican"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MeatTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Mediterranean_Restaurants"/>
@@ -186,6 +225,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Milanos_Pizza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MozzarellaTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MushroomTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#NamedBakery"/>
@@ -209,7 +254,25 @@
         <Class IRI="#Oceano_Bistro_-_Clayton"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#OliveOilTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OliveTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OnionTopping"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Party_and_Event_Planners"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PepperTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PepperoniTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PickledOnionTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Pizza"/>
@@ -245,13 +308,22 @@
         <Class IRI="#Prince_Pizza"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#ProvoloneCheeseTopping"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Pub"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RedOnionTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Restaurant"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Restaurants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RicottaTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Ristorante_Italiano"/>
@@ -261,6 +333,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Sandwich_Shops"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SausageTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Seafood_Restaurants"/>
@@ -275,7 +350,16 @@
         <Class IRI="#SlicePizza"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#SlicedTomatoTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SouceTopping"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Spagio"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SpinachTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Sports_Bar"/>
@@ -302,7 +386,13 @@
         <Class IRI="#ThinandCrispy"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#TomatoTopping"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Topping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tortilla"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Town_Pub"/>
@@ -312,6 +402,15 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Variety_Stores"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VegetableTopping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#White"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WhiteOnionTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Wine_Bar"/>
@@ -377,6 +476,9 @@
         <Class IRI="#Uno_Pizzeria_&amp;_Grill_-_Sturbridge"/>
     </Declaration>
     <Declaration>
+<<<<<<< HEAD
+        <NamedIndividual IRI="#43212,_1295_Grandview,_Columbus,_Marble_Cliff,_US"/>
+=======
         <NamedIndividual IRI="#Madison_St_Madison_US__TN"/>
     </Declaration>
     <Declaration>
@@ -510,6 +612,7 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#99216,14004_E_Indiana_Ave_Spokane_WA_US"/>
+>>>>>>> dd3cfd344143da1f46b757c82e1514549360dd95
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="dc:creator"/>
@@ -551,8 +654,24 @@
         <Class IRI="#Pizza"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#BasilPestoTopping"/>
+        <Class IRI="#SouceTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BasilTopping"/>
+        <Class IRI="#HerbSpiceTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BlendCheeseTopping"/>
+        <Class IRI="#CheeseTopping"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Brew_Pubs"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BroccoliTopping"/>
+        <Class IRI="#VegetableTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Buon_Cibo"/>
@@ -579,8 +698,12 @@
         <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#CheesePizza"/>
+        <Class IRI="#Cheese"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CheeseTopping"/>
+        <Class IRI="#Topping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#China_Kitchen"/>
@@ -612,10 +735,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Dough"/>
-        <Class IRI="#Pizza"/>
+        <Class IRI="#Base"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#EggscellentPizza"/>
+        <Class IRI="#Eggscellent"/>
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
@@ -635,8 +758,12 @@
         <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#GardenPizza"/>
+        <Class IRI="#Garden"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GarlicTopping"/>
+        <Class IRI="#VegetableTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Gluten-free_Restaurant"/>
@@ -647,15 +774,19 @@
         <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#GoatCheeseTopping"/>
+        <Class IRI="#CheeseTopping"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Gran_Morsi"/>
         <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#GrandmaPizza"/>
+        <Class IRI="#Grandma"/>
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#GreekPizza"/>
+        <Class IRI="#Greek"/>
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
@@ -663,12 +794,24 @@
         <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#GrilledPizza"/>
+        <Class IRI="#GreenPepperTopping"/>
+        <Class IRI="#PepperTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Grilled"/>
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#GyroPitaPizza"/>
+        <Class IRI="#GyroPita"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HerbSpiceTopping"/>
+        <Class IRI="#Topping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HoneyWheat"/>
+        <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#I_Love_Bagels"/>
@@ -677,6 +820,10 @@
     <SubClassOf>
         <Class IRI="#Icon_Grill"/>
         <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ItalianSausageTopping"/>
+        <Class IRI="#MeatTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Italian_Restaurants"/>
@@ -703,12 +850,20 @@
         <Class IRI="#DomainThing"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#MargheritaPizza"/>
+        <Class IRI="#Margherita"/>
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#MaxicanPizza"/>
+        <Class IRI="#MarinaraTopping"/>
+        <Class IRI="#SouceTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Maxican"/>
         <Class IRI="#NamedPizza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MeatTopping"/>
+        <Class IRI="#Topping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Mediterranean_Restaurants"/>
@@ -735,6 +890,14 @@
         <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#MozzarellaTopping"/>
+        <Class IRI="#CheeseTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MushroomTopping"/>
+        <Class IRI="#VegetableTopping"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#NamedBakery"/>
         <Class IRI="#Bakery"/>
     </SubClassOf>
@@ -759,8 +922,32 @@
         <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#OliveOilTopping"/>
+        <Class IRI="#SouceTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OliveTopping"/>
+        <Class IRI="#VegetableTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OnionTopping"/>
+        <Class IRI="#VegetableTopping"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Party_and_Event_Planners"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PepperTopping"/>
+        <Class IRI="#VegetableTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PepperoniTopping"/>
+        <Class IRI="#MeatTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PickledOnionTopping"/>
+        <Class IRI="#OnionTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Pizza"/>
@@ -807,8 +994,16 @@
         <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#ProvoloneCheeseTopping"/>
+        <Class IRI="#CheeseTopping"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Pub"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RedOnionTopping"/>
+        <Class IRI="#OnionTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Restaurant"/>
@@ -817,6 +1012,10 @@
     <SubClassOf>
         <Class IRI="#Restaurants"/>
         <Class IRI="#DomainThing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RicottaTopping"/>
+        <Class IRI="#CheeseTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Ristorante_Italiano"/>
@@ -829,6 +1028,10 @@
     <SubClassOf>
         <Class IRI="#Sandwich_Shops"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SausageTopping"/>
+        <Class IRI="#MeatTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Seafood_Restaurants"/>
@@ -847,8 +1050,20 @@
         <Class IRI="#NamedBakery"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#SlicedTomatoTopping"/>
+        <Class IRI="#TomatoTopping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SouceTopping"/>
+        <Class IRI="#Topping"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Spagio"/>
         <Class IRI="#NamedRestaurant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SpinachTopping"/>
+        <Class IRI="#VegetableTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Sports_Bar"/>
@@ -883,8 +1098,16 @@
         <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#TomatoTopping"/>
+        <Class IRI="#VegetableTopping"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Topping"/>
         <Class IRI="#Menu"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tortilla"/>
+        <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Town_Pub"/>
@@ -897,6 +1120,18 @@
     <SubClassOf>
         <Class IRI="#Variety_Stores"/>
         <Class IRI="#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VegetableTopping"/>
+        <Class IRI="#Topping"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#White"/>
+        <Class IRI="#Dough"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WhiteOnionTopping"/>
+        <Class IRI="#OnionTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Wine_Bar"/>
@@ -983,8 +1218,13 @@
         <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <ClassAssertion>
+<<<<<<< HEAD
+        <Class IRI="#Address"/>
+        <NamedIndividual IRI="#43212,_1295_Grandview,_Columbus,_Marble_Cliff,_US"/>
+=======
         <Class IRI="#Postcode"/>
         <NamedIndividual IRI="#10279,233_Broadway_New_York_Nyc_US"/>
+>>>>>>> dd3cfd344143da1f46b757c82e1514549360dd95
     </ClassAssertion>
 </Ontology>
 
