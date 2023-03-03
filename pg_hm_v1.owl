@@ -29,9 +29,6 @@
         <Class IRI="#Asian_Restaurant"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Atheneos_Greek_Village_Cafe"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Bagel_Shop"/>
     </Declaration>
     <Declaration>
@@ -62,16 +59,7 @@
         <Class IRI="#BroccoliTopping"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Buon_Cibo"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Burger"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Cafe_Veloce"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#California_Pizza_Kitchen"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Category"/>
@@ -84,12 +72,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#CheeseTopping"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#China_Kitchen"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#China_Moon"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Chinese_Restaurant"/>
@@ -137,13 +119,7 @@
         <Class IRI="#Gluten-free_Restaurant"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Glutenfree_Things"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#GoatCheeseTopping"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Gran_Morsi"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Grandma"/>
@@ -170,28 +146,10 @@
         <Class IRI="#HoneyWheat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#I_Love_Bagels"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Icon_Grill"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#ItalianSausageTopping"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Italian_Restaurants"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#La_Hacienda"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Lineage_-_Permanently_Closed"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Little_Caesars_Pizza"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Little_Italy_Pizza"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Location"/>
@@ -212,19 +170,10 @@
         <Class IRI="#Mediterranean_Restaurants"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mediterraneo_Ristorante"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Menu"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mexican_Gardens"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Mexican_Restaurant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Milanos_Pizza"/>
     </Declaration>
     <Declaration>
         <Class IRI="#MozzarellaTopping"/>
@@ -251,9 +200,6 @@
         <Class IRI="#Night_Clubs"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Oceano_Bistro_-_Clayton"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#OliveOilTopping"/>
     </Declaration>
     <Declaration>
@@ -302,12 +248,6 @@
         <Class IRI="#Postcode"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Prima_Pizza"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Prince_Pizza"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#ProvoloneCheeseTopping"/>
     </Declaration>
     <Declaration>
@@ -326,9 +266,6 @@
         <Class IRI="#RicottaTopping"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Ristorante_Italiano"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Round"/>
     </Declaration>
     <Declaration>
@@ -344,9 +281,6 @@
         <Class IRI="#Shape"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Sir_Pizza"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#SlicePizza"/>
     </Declaration>
     <Declaration>
@@ -354,9 +288,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#SouceTopping"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Spagio"/>
     </Declaration>
     <Declaration>
         <Class IRI="#SpinachTopping"/>
@@ -371,13 +302,7 @@
         <Class IRI="#State"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Steinway_Pizza"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Take_Out_Restaurants"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Tavern_At_The_Inn"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Taverns"/>
@@ -393,9 +318,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Tortilla"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Town_Pub"/>
     </Declaration>
     <Declaration>
         <Class IRI="#University"/>
@@ -416,199 +338,82 @@
         <Class IRI="#Wine_Bar"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Woolworth_Tower_Kitchen"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Abo&apos;s_Pizza"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Avellino&apos;s_Pizza"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Bar_&amp;_Grills"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Boston&apos;s_Restaurant_&amp;_Sports_Bar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Cajun_/_Creole_Restaurant"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Copeland&apos;s_Cheescake_Bistro"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Cristy&apos;s_Pizza"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Doubledave&apos;s_Pizzaworks"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Frank&apos;s_Pizzeria"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Greek&apos;s_Pizzeria"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Joey&apos;s_N_Y_Pizza"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#John&apos;s_of_12th_Street"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Organic_Foods_&amp;_Products"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Patrick_Molloy&apos;s_Sports_Pub"/>
+        <ObjectProperty IRI="#Location"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Salerno&apos;s_Pizza_Restaurant"/>
+        <ObjectProperty IRI="#Servedin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Suraya&apos;s_-_Grill_and_Fried_Chicken"/>
+        <ObjectProperty IRI="#has_address"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Tascali&apos;s_Decades_Pasta_&amp;_Grill"/>
+        <ObjectProperty IRI="#has_city"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Tomato_&amp;_Basil"/>
+        <ObjectProperty IRI="#has_country"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Uno_Pizzeria_&amp;_Grill_-_Sturbridge"/>
+        <ObjectProperty IRI="#has_postcode"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Madison_St_Madison_US__TN"/>
+        <ObjectProperty IRI="#has_state"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#10003,302_E_12th_St_New_York_US__Manhattan"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#10007,22_Warren_St_New_York_Manhattan_US"/>
+        <NamedIndividual IRI="#Cedar_Park"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#10279,233_Broadway_New_York_Nyc_US"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#11103,3151_Steinway_St_Astoria_Queens_US"/>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#1566,100_Charlton_Rd_Sturbridge_MA_US"/>
+        <NamedIndividual IRI="#Hernando"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#18709,19_Kelly_St_Luzerne_PA_US"/>
+        <NamedIndividual IRI="#IN"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#21157,22_Englar_Rd_Westminster_MD_US"/>
+        <NamedIndividual IRI="#Indianapolis"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#21221,133_Back_River_Neck_Rd_Essex_MD_US"/>
+        <NamedIndividual IRI="#MS"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#23434,938_N_Main_St_Suffolk_US__VA"/>
+        <NamedIndividual IRI="#TX"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#2446,242_Harvard_St_Brookline_US__MA"/>
+        <NamedIndividual IRI="#US"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#25504,6007_Us_60_E_Barboursville_WV_US"/>
+        <NamedIndividual IRI="#2631_Mcingvale_Rd"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#31709,1602_E_Forsyth_St_Americus_GA_US"/>
+        <NamedIndividual IRI="#38632"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#38104,1495_Union_Ave_Memphis_US__Mphs"/>
+        <NamedIndividual IRI="#401_E_Whitestone_Blvd"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#38632,2631_Mcingvale_Rd_Hernando,MS_US"/>
+        <NamedIndividual IRI="#46237"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#38671,775_Goodman_Rd_E_Southaven_MS_US"/>
+        <NamedIndividual IRI="#78613"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#43105,1001_S_Main_St_Baltimore_OH_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#43105,1001_S_Main_St_Baltimore_US__OH"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#43212,1295_Grandview_Ave_Columbus_OH_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#45840,200_E_Main_Cross_St_Findlay_OH_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#46237_8028_S_Emerson_Ave_Indianapolis_IN_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#46237,8028_S_Emerson_Ave_Indianapolis_US__IN"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#48195,15950_Eureka_Rd_Southgate_US__MI"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#48239,22507_Plymouth_Rd_Redford_MI_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#63105,44_N_Brentwood_Saint_Louis_MO_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#68154,711_N_132nd_St_Omaha_US__NE"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#6825,1876_Black_Rock_Tpke_Fairfield_CT_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#7003,378_Broad_St_Bloomfield_US__Grove"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#70130,2001_Saint_Charles_Ave_New_Orleans_LA_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#75149,1425_Gross_Rd_Mesquite_TX_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#77506,2619_Red_Bluff_Kroger_Jct_Pasadena_US__TX"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#78613,401_E_Whitestone_Blvd_Cedar_Park_TX_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#78758,3401_Esperanza_Xing_Austin_US__TX"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#80004,11651_W_64th_Ave_Arvada_CO_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#80129,2220_Wildcat_Reserve_Littleton_CO_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#80203,406_E_Colfax_Ave_Denver_US__CO"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#8854,1665_Stelton_Rd_Piscataway_NJ__US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#89052,11165_S_Eastern_Ave_Henderson_NV_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#90254,50a_Hermosa_Beach_CA_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#92677,28985_Golden_Lantern_Laguna_Niguel_CA_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#95062,555_Soquel_Ave_Santa_Cruz_CA_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#95827,9822_Libra_Ave_Sacramento_US__CA"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#98034,12514_120th_Ave_N_E_Kirkland_Kingsgate_US"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#98101,1933_5th_Ave_Seattle_US__WA"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#99216,14004_E_Indiana_Ave_Spokane_WA_US"/>
+        <NamedIndividual IRI="#8028_S_Emerson_Ave"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="dc:creator"/>
@@ -624,10 +429,6 @@
     <SubClassOf>
         <Class IRI="#Asian_Restaurant"/>
         <Class IRI="#Category"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Atheneos_Greek_Village_Cafe"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Bagel_Shop"/>
@@ -670,20 +471,8 @@
         <Class IRI="#VegetableTopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Buon_Cibo"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#Burger"/>
         <Class IRI="#Menu"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Cafe_Veloce"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#California_Pizza_Kitchen"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Category"/>
@@ -700,14 +489,6 @@
     <SubClassOf>
         <Class IRI="#CheeseTopping"/>
         <Class IRI="#Topping"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#China_Kitchen"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#China_Moon"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Chinese_Restaurant"/>
@@ -758,6 +539,13 @@
         <Class IRI="#NamedPizza"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Garden"/>
+        <ObjectHasValue>
+            <ObjectProperty IRI="#Servedin"/>
+            <NamedIndividual IRI="#Buon_Cibo"/>
+        </ObjectHasValue>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#GarlicTopping"/>
         <Class IRI="#VegetableTopping"/>
     </SubClassOf>
@@ -766,16 +554,8 @@
         <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Glutenfree_Things"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#GoatCheeseTopping"/>
         <Class IRI="#CheeseTopping"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Gran_Morsi"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Grandma"/>
@@ -810,36 +590,12 @@
         <Class IRI="#Dough"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#I_Love_Bagels"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Icon_Grill"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#ItalianSausageTopping"/>
         <Class IRI="#MeatTopping"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Italian_Restaurants"/>
         <Class IRI="#Category"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#La_Hacienda"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Lineage_-_Permanently_Closed"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Little_Caesars_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Little_Italy_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Location"/>
@@ -866,24 +622,12 @@
         <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Mediterraneo_Ristorante"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#Menu"/>
         <Class IRI="#Food"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Mexican_Gardens"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#Mexican_Restaurant"/>
         <Class IRI="#Category"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Milanos_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#MozzarellaTopping"/>
@@ -912,10 +656,6 @@
     <SubClassOf>
         <Class IRI="#Night_Clubs"/>
         <Class IRI="#Category"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Oceano_Bistro_-_Clayton"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#OliveOilTopping"/>
@@ -982,14 +722,6 @@
         <Class IRI="#Location"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Prima_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Prince_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#ProvoloneCheeseTopping"/>
         <Class IRI="#CheeseTopping"/>
     </SubClassOf>
@@ -1014,10 +746,6 @@
         <Class IRI="#CheeseTopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Ristorante_Italiano"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#Round"/>
         <Class IRI="#Shape"/>
     </SubClassOf>
@@ -1038,10 +766,6 @@
         <Class IRI="#Base"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Sir_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#SlicePizza"/>
         <Class IRI="#NamedBakery"/>
     </SubClassOf>
@@ -1052,10 +776,6 @@
     <SubClassOf>
         <Class IRI="#SouceTopping"/>
         <Class IRI="#Topping"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Spagio"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#SpinachTopping"/>
@@ -1074,16 +794,8 @@
         <Class IRI="#Location"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Steinway_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#Take_Out_Restaurants"/>
         <Class IRI="#Category"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Tavern_At_The_Inn"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Taverns"/>
@@ -1104,10 +816,6 @@
     <SubClassOf>
         <Class IRI="#Tortilla"/>
         <Class IRI="#Dough"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Town_Pub"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#University"/>
@@ -1134,89 +842,188 @@
         <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Woolworth_Tower_Kitchen"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Abo&apos;s_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Avellino&apos;s_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#Bar_&amp;_Grills"/>
         <Class IRI="#Category"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Boston&apos;s_Restaurant_&amp;_Sports_Bar"/>
-        <Class IRI="#NamedRestaurant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Cajun_/_Creole_Restaurant"/>
         <Class IRI="#Category"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Copeland&apos;s_Cheescake_Bistro"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Cristy&apos;s_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Doubledave&apos;s_Pizzaworks"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Frank&apos;s_Pizzeria"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Greek&apos;s_Pizzeria"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Joey&apos;s_N_Y_Pizza"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#John&apos;s_of_12th_Street"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#Organic_Foods_&amp;_Products"/>
         <Class IRI="#Category"/>
     </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Patrick_Molloy&apos;s_Sports_Pub"/>
+    <ClassAssertion>
+        <Class IRI="#Food_and_Beverage"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Salerno&apos;s_Pizza_Restaurant"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#City"/>
+        <NamedIndividual IRI="#Cedar_Park"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Suraya&apos;s_-_Grill_and_Fried_Chicken"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Pizza_Place"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Tascali&apos;s_Decades_Pasta_&amp;_Grill"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Tomato_&amp;_Basil"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Uno_Pizzeria_&amp;_Grill_-_Sturbridge"/>
-        <Class IRI="#NamedRestaurant"/>
-    </SubClassOf>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Restaurant"/>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#City"/>
+        <NamedIndividual IRI="#Hernando"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#State"/>
+        <NamedIndividual IRI="#IN"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#City"/>
+        <NamedIndividual IRI="#Indianapolis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#State"/>
+        <NamedIndividual IRI="#MS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#State"/>
+        <NamedIndividual IRI="#TX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#US"/>
+    </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Address"/>
-        <NamedIndividual IRI="#43212,_1295_Grandview,_Columbus,_Marble_Cliff,_US"/>
+        <NamedIndividual IRI="#2631_Mcingvale_Rd"/>
     </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Postcode"/>
+        <NamedIndividual IRI="#38632"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Address"/>
+        <NamedIndividual IRI="#401_E_Whitestone_Blvd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Postcode"/>
+        <NamedIndividual IRI="#46237"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Postcode"/>
+        <NamedIndividual IRI="#78613"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Address"/>
+        <NamedIndividual IRI="#8028_S_Emerson_Ave"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_address"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
+        <NamedIndividual IRI="#2631_Mcingvale_Rd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_city"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
+        <NamedIndividual IRI="#Hernando"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_country"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
+        <NamedIndividual IRI="#US"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_postcode"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
+        <NamedIndividual IRI="#38632"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_state"/>
+        <NamedIndividual IRI="#Buon_Cibo"/>
+        <NamedIndividual IRI="#MS"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_address"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
+        <NamedIndividual IRI="#401_E_Whitestone_Blvd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_city"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
+        <NamedIndividual IRI="#Cedar_Park"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_country"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
+        <NamedIndividual IRI="#US"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_postcode"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
+        <NamedIndividual IRI="#78613"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_state"/>
+        <NamedIndividual IRI="#Doubledave_Pizzaworks"/>
+        <NamedIndividual IRI="#TX"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_address"/>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
+        <NamedIndividual IRI="#8028_S_Emerson_Ave"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_city"/>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
+        <NamedIndividual IRI="#Indianapolis"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_country"/>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
+        <NamedIndividual IRI="#US"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_postcode"/>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
+        <NamedIndividual IRI="#46237"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_state"/>
+        <NamedIndividual IRI="#Greek_Pizzeria"/>
+        <NamedIndividual IRI="#IN"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_address"/>
+        <ObjectProperty IRI="#Location"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_city"/>
+        <ObjectProperty IRI="#Location"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_country"/>
+        <ObjectProperty IRI="#Location"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_postcode"/>
+        <ObjectProperty IRI="#Location"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_state"/>
+        <ObjectProperty IRI="#Location"/>
+    </SubObjectPropertyOf>
 </Ontology>
 
 
