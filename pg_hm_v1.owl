@@ -946,6 +946,7 @@
         <Class IRI="#OnionTopping"/>
     </SubClassOf>
     <SubClassOf>
+    
         <Class IRI="#Pizza"/>
         <Class IRI="#Menu"/>
     </SubClassOf>
